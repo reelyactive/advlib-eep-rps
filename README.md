@@ -3,6 +3,8 @@ advlib-eep-rps
 
 Wireless advertising packet decoding library for EnOcean Equipment Profiles of rocker position switch (RPS) telegrams.  __advlib-eep-rps__ is typically used as a library for [advlib-esp](https://github.com/reelyactive/advlib-esp) which itself is commonly a processor module of the protocol-agnostic [advlib](https://github.com/reelyactive/advlib).
 
+![Overview of advlib-eep-rps](https://reelyactive.github.io/advlib-eep-rps/images/overview.png)
+
 __advlib-eep-rps__ is a lightweight [Node.js package](https://www.npmjs.com/package/advlib-eep-rps) with no dependencies.  See also its sister libraries [advlib-eep-vld](https://github.com/reelyactive/advlib-eep-vld) and [advlib-eep-4bs](https://github.com/reelyactive/advlib-eep-4bs).
 
 
@@ -41,6 +43,8 @@ The following EEPs are currently supported by __advlib-eep-rps__.
 | EEP      | Profile Name            | /lib file       |
 |:---------|:------------------------|:----------------|
 | F6-02-02 | Rocker Switch, 2-Rocker | rockerswitch.js |
+
+See [www.reelyactive.com/pareto/anywhere/devices/enocean-alliance/](https://www.reelyactive.com/pareto/anywhere/devices/enocean-alliance/) for a list of all EEPs supported by our [Pareto Anywhere](https://www.reelyactive.com/pareto/anywhere/) open source IoT middleware.
 
 
 Contributing

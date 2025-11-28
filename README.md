@@ -5,7 +5,7 @@ Wireless advertising packet decoding library for EnOcean Equipment Profiles of r
 
 ![Overview of advlib-eep-rps](https://reelyactive.github.io/advlib-eep-rps/images/overview.png)
 
-__advlib-eep-rps__ is a lightweight [Node.js package](https://www.npmjs.com/package/advlib-eep-rps) with no dependencies.  See also its sister libraries [advlib-eep-vld](https://github.com/reelyactive/advlib-eep-vld) and [advlib-eep-4bs](https://github.com/reelyactive/advlib-eep-4bs).
+__advlib-eep-rps__ is a lightweight [Node.js package](https://www.npmjs.com/package/advlib-eep-rps) with no dependencies.  See also its sister libraries [advlib-eep-vld](https://github.com/reelyactive/advlib-eep-vld), [advlib-eep-4bs](https://github.com/reelyactive/advlib-eep-4bs) and [advlib-eep-msc](https://github.com/reelyactive/advlib-eep-msc).
 
 
 Installation
